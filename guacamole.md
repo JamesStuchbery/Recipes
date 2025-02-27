@@ -1,6 +1,6 @@
 # Guacomole
 ##Ingredients
-lemon,
+lime,
 avo,
 cumin,
 etc.,
